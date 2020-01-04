@@ -1,0 +1,23 @@
+commit 533f88312c58d673b00af9b49874f567c96c6e0a
+Author: myUserName <someguy78912@gmail.com>
+Date:   Sat Jan 4 16:19:35 2020 +0100
+
+    added gitignore
+
+commit 3f78bff1ca5a5e1bafa206e899cc4d64f45c31fb
+Author: myUserName <someguy78912@gmail.com>
+Date:   Sat Jan 4 16:04:15 2020 +0100
+
+    added new untracked file
+
+commit a6cae3ccbe0a1e65408aa3a4c8bfe1de99ea80e0
+Author: myUserName <someguy78912@gmail.com>
+Date:   Sat Jan 4 15:51:28 2020 +0100
+
+    added two files
+
+commit 2d4346a355fead66a407b7860c0beaa3ba83b7e1
+Author: myUserName <someguy78912@gmail.com>
+Date:   Sat Jan 4 15:39:18 2020 +0100
+
+    added readme.txt
